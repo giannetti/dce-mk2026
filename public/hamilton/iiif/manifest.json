@@ -86,7 +86,40 @@
 					"Page 2"
 				]
 			},
-			"annotations": []
+			"annotations": [
+				{
+					"id": "https://giannetti.github.io/dce-mk2026//hamilton/iiif/canvas/f001/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://giannetti.github.io/dce-mk2026//hamilton/iiif/canvas/f001/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://giannetti.github.io/dce-mk2026//hamilton/tei/text/f001.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://giannetti.github.io/dce-mk2026//hamilton/iiif/canvas/f001"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://giannetti.github.io/dce-mk2026//hamilton/iiif/canvas/f001/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://giannetti.github.io/dce-mk2026//hamilton/html/text/f001.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://giannetti.github.io/dce-mk2026//hamilton/iiif/canvas/f001"
+						}
+					]
+				}
+			]
 		},
 		{
 			"id": "https://giannetti.github.io/dce-mk2026//hamilton/iiif/canvas/f002",
@@ -275,40 +308,7 @@
 					"Page 5"
 				]
 			},
-			"annotations": [
-				{
-					"id": "https://giannetti.github.io/dce-mk2026//hamilton/iiif/canvas/f004/annotationPage/1",
-					"type": "AnnotationPage",
-					"items": [
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://giannetti.github.io/dce-mk2026//hamilton/iiif/canvas/f004/annotationPage/1/annotation/0",
-							"type": "Annotation",
-							"motivation": "supplementing",
-							"body": {
-								"id": "https://giannetti.github.io/dce-mk2026//hamilton/tei/text/f004.xml",
-								"format": "text/xml",
-								"type": "TextPartial",
-								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
-							},
-							"target": "https://giannetti.github.io/dce-mk2026//hamilton/iiif/canvas/f004"
-						},
-						{
-							"@context": "https://www.w3.org/ns/anno.jsonld",
-							"id": "https://giannetti.github.io/dce-mk2026//hamilton/iiif/canvas/f004/annotationPage/1/annotation/1",
-							"type": "Annotation",
-							"motivation": "supplementing",
-							"body": {
-								"id": "https://giannetti.github.io/dce-mk2026//hamilton/html/text/f004.html",
-								"format": "text/html",
-								"type": "TextPartial",
-								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
-							},
-							"target": "https://giannetti.github.io/dce-mk2026//hamilton/iiif/canvas/f004"
-						}
-					]
-				}
-			]
+			"annotations": []
 		},
 		{
 			"id": "https://giannetti.github.io/dce-mk2026//hamilton/iiif/canvas/f005",
