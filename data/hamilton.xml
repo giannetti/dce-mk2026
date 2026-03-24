@@ -79,7 +79,8 @@
       <text xml:id="text">
 
           <body>
-            <div decls="#f001">
+            <div>
+            <pb facs="#f001" />
               <p>My Dear sir</p>
               <p>[agreeably to your request I should have eludicated]
               Mr Gales [algebraic demonstration] theorem relative to the value
@@ -109,7 +110,7 @@
               adopting Mr Gales plan has rather to my knowledge been
               given.- [One] has however latterly [answered] to me, and which</p>
             </div>
-            <div decls="#f002">
+            <pb facs="#f002" />
             <p>appears to me of sufficient weight to justify that man is [?]
             for not entering in the business, precisely in the manner
             proposed by Mr Gale, which you will recollect was to estimate
