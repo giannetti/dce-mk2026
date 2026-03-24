@@ -1,7 +1,7 @@
 {
   "id": "ec",
   "documentName": "Hamilton Letters",
-  "iiifManifest": "/dce-mk2026/<DOCUMENT_ID>/iiif/manifest.json",
+  "iiifManifest": "/dce-mk2026/hamilton/iiif/manifest.json",
   "transcriptionTypes": {
     "text": "Transcription"
   },
